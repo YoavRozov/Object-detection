@@ -1,5 +1,7 @@
 # FRC Object Detection Tutorial\Showcase with Synthetic Data
 
+[Showcase](/media/Showcase.png)
+
 ## Description
 This repository provides a complete tutorial for generating synthetic image data using Blender and training YOLO models for object detection, segmentation, and oriented bounding boxes (OBB). It is designed for FRC teams to learn how to create datasets and train models efficiently using synthetic data.
 
